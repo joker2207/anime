@@ -202,6 +202,7 @@ const App = () => {
  <p>Fecha: 20 de julio 2024</p>
 
         <p>Hora: Desde las 9 pm</p>
+  <p> Debes enviar capture del anime q escogiste</p>
         <button onClick={handleWelcomeClick} className="accept-button">
           Aceptar y descubrir más
         </button>
