@@ -199,6 +199,8 @@ const App = () => {
         <h1>¡Bienvenido a mi fiesta de cumpleaños!</h1>
         <h2>Ever Enrique Navarro Figueroa</h2>
         <p>Lugar: Mi residencia</p>
+ <p>Fecha: 20 de julio 2024</p>
+
         <p>Hora: Desde las 9 pm</p>
         <button onClick={handleWelcomeClick} className="accept-button">
           Aceptar y descubrir más
